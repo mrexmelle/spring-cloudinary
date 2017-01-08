@@ -2,15 +2,10 @@
 package com.linecorp.example.springcloudinary;
 
 import com.cloudinary.Cloudinary;
-import com.cloudinary.api.ApiResponse;
 import com.cloudinary.utils.ObjectUtils;
 
 import java.io.File;
-import java.io.FileOutputStream;
-import java.io.InputStream;
 import java.nio.file.Files;
-import java.nio.file.Path;
-import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
